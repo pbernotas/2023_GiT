@@ -4,6 +4,8 @@
 *second item
 *and so forth
 
+Hello, what's up
+
 
 The error "Could not open a connection to your authentication agent" indicates that the SSH agent is not running or not available in your current session. The SSH agent is responsible for holding private keys and providing them to the SSH client when needed.
 
